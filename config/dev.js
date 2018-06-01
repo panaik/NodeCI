@@ -9,5 +9,7 @@ module.exports = {
   // mongoURI: 'mongodb://readonly:password@ds063124.mlab.com:63124/blog_everyone',
   mongoURI: "mongodb://panaik:password@ds147589.mlab.com:47589/blog_dev_1",
   cookieKey: "123123123",
-  redisUrl: "redis://127.0.0.1:6379"
+  redisUrl: "redis://127.0.0.1:6379",
+  accessKeyId: "AKIAIKRWF7EMFLNSOOBA",
+  secretAccessKey: "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"
 };
